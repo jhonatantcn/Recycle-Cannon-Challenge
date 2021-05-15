@@ -1,0 +1,466 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.985; Version 2009; 64bit' Language: 'pt' Physical Memory: 16250 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity Projects/13.Recycle Cannon/Recycle Cannon Challenge
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61412
+Successfully changed project path to: E:/Unity Projects/13.Recycle Cannon/Recycle Cannon Challenge
+E:/Unity Projects/13.Recycle Cannon/Recycle Cannon Challenge
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity Projects/13.Recycle Cannon/Recycle Cannon Challenge/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     8125 MB
+    Driver:   21.20.16.4599
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56500
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003193 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 46.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.965 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001396 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.568 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1250 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.8 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1680.
+Total: 3.527500 ms (FindLiveObjects: 0.287700 ms CreateObjectMapping: 0.098100 ms MarkObjects: 3.042900 ms  DeleteObjects: 0.096400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite
+  artifactKey: Guid(8b374b33d24f73b40829c3bb6687202e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite using Guid(8b374b33d24f73b40829c3bb6687202e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '816d8b4c39be42c48ad008d3dedeed37') in 0.008353 seconds
+  Import took 0.011009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.529278 seconds.
+  path: Assets/TowerDefence_Vsquad/Scene
+  artifactKey: Guid(a9fcb2a382ab4b44ba8eb61ce81d314d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Scene using Guid(a9fcb2a382ab4b44ba8eb61ce81d314d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7186c97d49189f3f74d16cd03ca96a6') in 0.003548 seconds
+  Import took 0.008234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.332922 seconds.
+  path: Assets/TowerDefence_Vsquad/Scene/HM_demoscene.unity
+  artifactKey: Guid(08220b6305386ea4dba20fabc22fc6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Scene/HM_demoscene.unity using Guid(08220b6305386ea4dba20fabc22fc6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b00774d18acbfb2bae8c34539fde8c4') in 0.058935 seconds
+  Import took 0.062524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.880285 seconds.
+  path: Assets/TowerDefence_Vsquad/Scene/HM_All_objects_on_grid.unity
+  artifactKey: Guid(834c4f58900f7714f8f7976808874739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Scene/HM_All_objects_on_grid.unity using Guid(834c4f58900f7714f8f7976808874739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef210de9df6d4715171a8254e49a57f') in 0.003636 seconds
+  Import took 0.011471 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000931 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.173 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1243 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1683.
+Total: 3.884700 ms (FindLiveObjects: 0.962500 ms CreateObjectMapping: 0.129100 ms MarkObjects: 2.743600 ms  DeleteObjects: 0.047100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 308.084285 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/HM_cannon_1.prefab
+  artifactKey: Guid(997eda0f844715845a30121b4553e2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/HM_cannon_1.prefab using Guid(997eda0f844715845a30121b4553e2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3c6fef0a74dfe422dbc396c37d37b0') in 0.274191 seconds
+  Import took 0.278952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.611920 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/Characters/Goblin/Goblin_test.prefab
+  artifactKey: Guid(3749b9edee740c44ea7455a4fa1b7382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/Characters/Goblin/Goblin_test.prefab using Guid(3749b9edee740c44ea7455a4fa1b7382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ebd8fd41838dceb0b9fd6bda497f16') in 0.118624 seconds
+  Import took 0.122380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.297875 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/script_objects/Castle.prefab
+  artifactKey: Guid(dbb2cf413fd66114a8ada859fbf76b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/script_objects/Castle.prefab using Guid(dbb2cf413fd66114a8ada859fbf76b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495d3af731eacf3e48ea53b8366e2960') in 0.230162 seconds
+  Import took 0.235022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/script_objects/WayPoint_1.prefab
+  artifactKey: Guid(1bd1882e8cddf7d4aa1e7961a4e16631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/script_objects/WayPoint_1.prefab using Guid(1bd1882e8cddf7d4aa1e7961a4e16631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fac25bb60c7683dbe9febebd4b0f2ec') in 0.016319 seconds
+  Import took 0.019938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/script_objects/Castle_3.prefab
+  artifactKey: Guid(49d144698851ec547865738ab31e7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/script_objects/Castle_3.prefab using Guid(49d144698851ec547865738ab31e7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf81425bbf7821055f0c008c5a0c410') in 0.015400 seconds
+  Import took 0.018776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/script_objects/Zone.prefab
+  artifactKey: Guid(9997dd85c3465a8479fc9705057ccb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/script_objects/Zone.prefab using Guid(9997dd85c3465a8479fc9705057ccb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '638e0add2c1c9dcea72bbd737291e2a9') in 0.009032 seconds
+  Import took 0.012600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/script_objects/Gate.prefab
+  artifactKey: Guid(1b352ac888813eb4e82202267ad9b627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/script_objects/Gate.prefab using Guid(1b352ac888813eb4e82202267ad9b627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d66c677290769c433ce86f075e12632') in 0.024265 seconds
+  Import took 0.028576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/script_objects/Castle_3.prefab
+  artifactKey: Guid(49d144698851ec547865738ab31e7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/script_objects/Castle_3.prefab using Guid(49d144698851ec547865738ab31e7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf81425bbf7821055f0c008c5a0c410') in 0.015866 seconds
+  Import took 0.020286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/script_objects/Castle.prefab
+  artifactKey: Guid(dbb2cf413fd66114a8ada859fbf76b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/script_objects/Castle.prefab using Guid(dbb2cf413fd66114a8ada859fbf76b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495d3af731eacf3e48ea53b8366e2960') in 0.015245 seconds
+  Import took 0.018526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001162 seconds.
+  path: Assets/TowerDefence_Vsquad/Prefabs/script_objects/Gate.prefab
+  artifactKey: Guid(1b352ac888813eb4e82202267ad9b627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Prefabs/script_objects/Gate.prefab using Guid(1b352ac888813eb4e82202267ad9b627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d66c677290769c433ce86f075e12632') in 0.019571 seconds
+  Import took 0.024727 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.474 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1243 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.7 MB.
+System memory in use after: 77.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1697.
+Total: 11.546200 ms (FindLiveObjects: 0.792500 ms CreateObjectMapping: 0.129300 ms MarkObjects: 10.583200 ms  DeleteObjects: 0.035700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 311.548726 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/ButtonNormal.png
+  artifactKey: Guid(a607367d4cd7698448f8136e61700697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/ButtonNormal.png using Guid(a607367d4cd7698448f8136e61700697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e9c206b486d4ac4ebcd56c75c3027b') in 0.167073 seconds
+  Import took 0.173039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/Textures/checker_dff.png
+  artifactKey: Guid(57a86df732b4dd24a843796052ea2f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/Textures/checker_dff.png using Guid(57a86df732b4dd24a843796052ea2f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b76d67fbffc54c5debba30eab916f5') in 0.033647 seconds
+  Import took 0.036955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/Materials/checker_mat.mat
+  artifactKey: Guid(ff31adc1e5cf3ea4b9efc4c0df263fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/Materials/checker_mat.mat using Guid(ff31adc1e5cf3ea4b9efc4c0df263fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514205f46e0cebdb2d1512813713bd03') in 0.142180 seconds
+  Import took 0.147663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/ButtonPressed.png
+  artifactKey: Guid(4b8f74d5b6690d14db1abb6327496d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/ButtonPressed.png using Guid(4b8f74d5b6690d14db1abb6327496d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86491d56298631facd6c36b63475296') in 0.019384 seconds
+  Import took 0.028296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.987103 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/Touchzone.png
+  artifactKey: Guid(3bfb280c14ab2614e937e8ebb7d77083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/Touchzone.png using Guid(3bfb280c14ab2614e937e8ebb7d77083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93f65966c6e0704869f26cc49735ea2') in 0.018835 seconds
+  Import took 0.022877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.749779 seconds.
+  path: Assets/TowerDefence_Vsquad/Scripts/TowerTrigger.cs
+  artifactKey: Guid(5c40027982a518f4c877ed8b22c18b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Scripts/TowerTrigger.cs using Guid(5c40027982a518f4c877ed8b22c18b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26407301b857abb437d763c330b6d9ae') in 0.050152 seconds
+  Import took 0.055120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.839650 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9274ce4079a5137dd04f6e6c4d809583') in 0.009526 seconds
+  Import took 0.014708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012287 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9274ce4079a5137dd04f6e6c4d809583') in 0.005809 seconds
+  Import took 0.012815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.304001 seconds.
+  path: Assets/TowerDefence_Vsquad/Materials/FX/HM_smoke blended.mat
+  artifactKey: Guid(c77f053355b8f1248bafbaaaad21f8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Materials/FX/HM_smoke blended.mat using Guid(c77f053355b8f1248bafbaaaad21f8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a52d667a5fe034a0d6eb3eca63f1b7') in 0.030405 seconds
+  Import took 0.034960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.070458 seconds.
+  path: Assets/TowerDefence_Vsquad/Materials/FX/HM_FirePlace_FX_additive.mat
+  artifactKey: Guid(d507038073dcda64c97192fc4cdc8d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Materials/FX/HM_FirePlace_FX_additive.mat using Guid(d507038073dcda64c97192fc4cdc8d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df601ff1e7d57698247eac5c645ef1c4') in 0.024187 seconds
+  Import took 0.028085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.811516 seconds.
+  path: Assets/TowerDefence_Vsquad/Materials/FX/HM_FirePlace_FX_blended.mat
+  artifactKey: Guid(834671165b066db4daa35bd828d5312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Materials/FX/HM_FirePlace_FX_blended.mat using Guid(834671165b066db4daa35bd828d5312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a721eadf3343e5d4e9fbeba688ddd4') in 0.025612 seconds
+  Import took 0.030174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014375 seconds.
+  path: Assets/TowerDefence_Vsquad/Materials/FX/HM_FirePlace_FX_blended.mat
+  artifactKey: Guid(834671165b066db4daa35bd828d5312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TowerDefence_Vsquad/Materials/FX/HM_FirePlace_FX_blended.mat using Guid(834671165b066db4daa35bd828d5312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a721eadf3343e5d4e9fbeba688ddd4') in 0.026481 seconds
+  Import took 0.030350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.477569 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/TCK_Changelog.txt
+  artifactKey: Guid(f6525e9ea02c8c742b293fbfa3c47924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/TCK_Changelog.txt using Guid(f6525e9ea02c8c742b293fbfa3c47924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f75ca02a0b6ec93853cd9ac3d3ba76') in 0.030777 seconds
+  Import took 0.034400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197744 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/TCK_Changelog.txt
+  artifactKey: Guid(f6525e9ea02c8c742b293fbfa3c47924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/TCK_Changelog.txt using Guid(f6525e9ea02c8c742b293fbfa3c47924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f75ca02a0b6ec93853cd9ac3d3ba76') in 0.006215 seconds
+  Import took 0.009457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.369924 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Scripts
+  artifactKey: Guid(d4c0160b4d580e240a0e3fa711949e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Scripts using Guid(d4c0160b4d580e240a0e3fa711949e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1411460af4e501c6d49729ea7877e13b') in 0.004818 seconds
+  Import took 0.009067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.250433 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content
+  artifactKey: Guid(f9946271df584754f9f8ea07433baa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content using Guid(f9946271df584754f9f8ea07433baa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60fceb536c57886fde36b77b28a5819b') in 0.005502 seconds
+  Import took 0.008861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.545543 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites
+  artifactKey: Guid(18419a50e169ab5469812b0efa764838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites using Guid(18419a50e169ab5469812b0efa764838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd30817a67a252286bd5616f0ac27c79e') in 0.006947 seconds
+  Import took 0.013702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072746 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/Joystick.png
+  artifactKey: Guid(2da42809d125f14478652833a3a91ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/Joystick.png using Guid(2da42809d125f14478652833a3a91ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a598a9adcf8f33fdf527328f9ad24e39') in 0.016842 seconds
+  Import took 0.020578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/JoystickBack.png
+  artifactKey: Guid(457f28f477c036a419ae3bf4458efbc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/Sprites/JoystickBack.png using Guid(457f28f477c036a419ae3bf4458efbc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c2e81a54e851122514490850e0514e') in 0.022507 seconds
+  Import took 0.026120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.118040 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample
+  artifactKey: Guid(141eb97a0874d5a488c340d49adb1418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample using Guid(141eb97a0874d5a488c340d49adb1418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f548d9d217d60969d2c42712a9def3') in 0.006371 seconds
+  Import took 0.011325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.041542 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/FirstPerson.unity
+  artifactKey: Guid(40d8c71e7d73ffa4dad57381bb80cc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/FirstPerson.unity using Guid(40d8c71e7d73ffa4dad57381bb80cc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8633cb48c82be83c50b19f541fa1f3fc') in 0.007476 seconds
+  Import took 0.010826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.333232 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/FirstPerson
+  artifactKey: Guid(56205885cb98264438ffc57a16fe9842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/FirstPerson using Guid(56205885cb98264438ffc57a16fe9842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f007ae0a0126662d668f2de09a28761') in 0.007005 seconds
+  Import took 0.012490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073962 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/FirstPerson/LightingData.asset
+  artifactKey: Guid(2dea81873086b3d48bbff1a384f0ba77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/FirstPerson/LightingData.asset using Guid(2dea81873086b3d48bbff1a384f0ba77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Lighting data asset ‘LightingData’ is incompatible with the current Unity version. Please use Generate Lighting to rebuild the lighting data.  Realtime Global Illumination cannot be used until the lighting data is rebuilt.
+
+ -> (artifact id: '80b8628a7bc36c62bb7e17c2397c7002') in 0.006144 seconds
+  Import took 0.009484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/FirstPerson/ReflectionProbe-0.exr
+  artifactKey: Guid(5d212607c42f44248a05a671d2ca2d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VictorsAssets/TouchControlsKit-Lite/Content/FirstPersonExample/FirstPerson/ReflectionProbe-0.exr using Guid(5d212607c42f44248a05a671d2ca2d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea167235fe866aed65da5cc858617ec3') in 0.072680 seconds
+  Import took 0.077733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.944577 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6789024990699fc3587a776605cdd52c') in 0.004560 seconds
+  Import took 0.008002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014692 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6789024990699fc3587a776605cdd52c') in 0.003792 seconds
+  Import took 0.007709 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001120 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1243 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.2 MB.
+System memory in use after: 78.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1741.
+Total: 3.163300 ms (FindLiveObjects: 0.256700 ms CreateObjectMapping: 0.076200 ms MarkObjects: 2.789900 ms  DeleteObjects: 0.038100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
