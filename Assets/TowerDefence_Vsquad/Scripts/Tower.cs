@@ -58,7 +58,6 @@ public class Tower : MonoBehaviour {
                 LookAtObj.transform.rotation = Quaternion.Slerp( LookAtObj.transform.rotation, rot, 5 * Time.deltaTime);
 
         }
-      
         else
         {
             

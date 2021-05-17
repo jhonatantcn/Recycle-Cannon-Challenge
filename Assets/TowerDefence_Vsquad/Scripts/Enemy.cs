@@ -22,7 +22,9 @@ public class Enemy : MonoBehaviour {
     {            
         anim = GetComponent<Animator>();
         Enemy_Hp = Enemybug.GetComponent<EnemyHp>();
-        previous_Speed = Speed;        
+        previous_Speed = Speed;
+
+        curWaypointIndex = Random.Range(0, waypoints.Length);
     }
 
     // Attack
@@ -71,14 +73,13 @@ public class Enemy : MonoBehaviour {
     void Update () 
 	{
 
-        
+
         //Debug.Log("Animator  " + anim);
 
 
         // MOVING
-
         if (curWaypointIndex < waypoints.Length){
-	transform.position = Vector3.MoveTowards(transform.position,waypoints[curWaypointIndex].position,Time.deltaTime*Speed);
+	        transform.position = Vector3.MoveTowards(transform.position,waypoints[curWaypointIndex].position,Time.deltaTime*Speed);
             
             if (!EnemyTarget)
             {
