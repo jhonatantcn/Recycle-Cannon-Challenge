@@ -63,7 +63,7 @@ public class Enemy : MonoBehaviour {
 
     void GetDamage ()
 
-    {        
+    {    if (EnemyTarget != null)    
             EnemyTarget.GetComponent<TowerHP>().Dmg_2(Creature_Damage);       
     }
 
